@@ -14,8 +14,8 @@ export default function Main() {
           <h3>India's No.1 Dating App</h3>
           <p>Who are you looking for,</p>
           <div className="btn2">
-            <Link to = '/Girl' className="btn">FEMAIL FRIEND</Link>
-            <Link to = '/Boy' className="btn">MAIL FRIEND</Link>
+            <Link to = '/Girl' className="btn">FEMALE FRIEND</Link>
+            <Link to = '/Boy' className="btn">MALE FRIEND</Link>
           </div>
         </div>
       </div>  
