@@ -3,10 +3,10 @@ import "./App.css";
 import Boy from "./component/Boy";
 import Girl from "./component/Girl";
 import Main from "./component/Main";
-import { BrowserRouter, Routes, Route } from "react-router-dom";
-
+import { BrowserRouter } from "react-router-dom";
+import { Routes } from "react-router-dom";
+import { Route } from "react-router-dom";
 export default function App() {
-
   return (<div>
 
     <BrowserRouter>
@@ -21,6 +21,7 @@ export default function App() {
       </Routes>
 
     </BrowserRouter>
+
 
 
 
